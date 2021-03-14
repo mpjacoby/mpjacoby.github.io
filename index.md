@@ -2,7 +2,7 @@
 title: Matthew Jacoby's Website
 ---
 
-![Picture of me](image.jpg)
+![Picture of me](image.jpg){:height="25%" width="25%"}
 
 These links are to work I've done with analytics on various topics.
 
