@@ -3,7 +3,7 @@ title: Matthew Jacoby's Website
 description: Created using GitHub Pages
 ---
 
-![Picture of me](image.jpg){:height="25%" width="25%"}
+![Picture of me](MatthewJacoby.jpg){:height="25%" width="25%"}
 
 These links are to work I've done with analytics on various topics.
 
