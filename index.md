@@ -11,6 +11,6 @@ Welcome to my GitHub Pages website!
 
 Links to GitHub repos for MSBA coursework:
 
-- [MapReduce Python Video Game Sales](http://github.com/mpjacoby/MRJobVideoGameSales)
-- [pyspark Video Game Sales](http://github.com/mpjacoby/pysparkVideoGameSales)
-- [Machine Learning 2 Bagging and Random Forests Exercise](http://github.com/mpjacoby/Team15ML2Lab---Bagging-and-Random-Forests-and-Boosting-Oh-My)
+* [MapReduce Python Video Game Sales](http://github.com/mpjacoby/MRJobVideoGameSales)
+* [pyspark Video Game Sales](http://github.com/mpjacoby/pysparkVideoGameSales)
+* [Machine Learning 2 Bagging and Random Forests Exercise](http://github.com/mpjacoby/Team15ML2Lab---Bagging-and-Random-Forests-and-Boosting-Oh-My)
