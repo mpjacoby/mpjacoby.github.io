@@ -4,4 +4,5 @@ description: Analyzing Sales Data
 ---
 
 These links are to work done with sales data:
-- xxxx
+- [Time Series Jupyter Notebook (html)](TimeSeriesDecomposition.html)
+- [Time Series Jupyter Notebook (ipynb)](TimeSeriesDecomposition.ipynb)
