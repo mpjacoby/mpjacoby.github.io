@@ -1,5 +1,6 @@
 ---
 title: Matthew Jacoby's Website
+description: Created using GitHub Pages
 ---
 
 ![Picture of me](image.jpg){:height="25%" width="25%"}
